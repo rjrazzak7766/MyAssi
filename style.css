@@ -45,7 +45,7 @@
     
 }
 .Donate-Amount{
-    margin-top: 10px;
+    margin-top: 3rem;
     text-align: center;
 }
 .Donet-Amount-content h1{
@@ -53,7 +53,8 @@
 }
 .Donet-Amount-content p{
     color: rgb(187, 183, 183);
-    margin-top: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 .Donet-Amount-content ol li{
     display: inline-block;
