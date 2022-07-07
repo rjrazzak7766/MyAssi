@@ -134,3 +134,102 @@ footer h1{
 footer p{
     color: white ;
 }
+.Our-works{
+    display: flex;
+    width: 80%;
+    margin: 5%;
+}
+.Our-works1{
+    width: 60%;
+    background-color: rgb(138, 138, 224);
+    text-align: justify;
+    margin-right: 2rem;
+    padding: 20px;
+    border-radius: 5px;
+}
+.Our-works1 h3{
+    color: white;
+    font-size: 25px;
+}
+.Our-works1 p{
+    color: #ddd;
+}
+
+.Our-works2{
+    width: 60%;
+    background-color: rgb(106, 180, 230);
+    text-align: justify;
+    margin-right: 2rem;
+    padding: 20px;
+    border-radius: 5px;
+}
+.Our-works2 h3{
+    color: white;
+    font-size: 25px;
+}
+.Our-works2 p{
+    color: #ddd;
+}
+.Our-works3{
+    width: 60%;
+    background-color: rgb(157, 206, 207);
+    text-align: justify;
+    margin-right: 2rem;
+    padding: 20px;
+    border-radius: 5px;
+}
+.Our-works3 h3{
+    color: white;
+    font-size: 25px;
+}
+.Our-works3 p{
+    color: #ddd;
+}
+.Our-Donate-Plan{
+    text-align: center;
+    margin-top: 2rem;
+}
+.Our-Donate-Plan h1{
+    font-size: 60px;
+}
+.Our-Donate-Plan1 p{
+    color: rgb(160, 158, 158);
+}
+.subscription{
+    text-align: center;
+    margin: 5%;
+}
+.subscription div h1{
+    font-size: 60px;
+    margin-bottom: 1rem;
+
+}
+.subscription div p{
+    color: rgb(175, 170, 170);
+    margin-bottom: 1rem;
+}
+.Subscriptionform{
+    background-color: bisque;
+    width: 70%;
+    margin-left: 15%;
+    padding: 4rem;
+    border-radius: 5px;
+}
+.Subscriptionform-button{
+    width: 150px;
+    height: 50px;
+    background-image: linear-gradient(rgb(17, 231, 231),rgba(15, 181, 187, 0.733));
+    border: 2px solid wheat;
+    border-radius: 5px;
+}
+.Subscriptionform-button a{
+    color: white;
+    text-decoration: none;
+}
+.subscription span input {
+    width: 250px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+}
